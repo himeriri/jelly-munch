@@ -5,4 +5,5 @@ How to run:
 - Download zip file from releases 
 - Extract zip file 
 - Run "Jelly Munch"
+
 For Windows only 
